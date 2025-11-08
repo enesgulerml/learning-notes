@@ -26,7 +26,7 @@ This collection covers detailed explorations of the following algorithms, struct
 | **XGBoost** | Gradient Boosting, Objective Functions, Hyperparameter Optimization | [XGBoost-README.md](https://github.com/enesgulerml/Learning-Notes/blob/main/XGBoost-README.md) |
 | **K-Nearest Neighbors (K-NN)** | Distance Metrics, Bias-Variance, Advanced K-NN Variants | [KNN-README.md](https://github.com/enesgulerml/Learning-Notes/blob/main/KNN-README.md) |
 | **Principal Component Analysis (PCA)** | Dimensionality Reduction, Eigenvectors, Kernel & Incremental PCA | [PCA-README.md](https://github.com/enesgulerml/Learning-Notes/blob/main/PCA-README.md) |
-| **K-Means Clustering** | Optimal K Selection, Distance Metrics, Cluster Stability Evaluation | [KMEANS-README.md](https://github.com/enesgulerml/Learning-Notes/blob/main/KMEANS-README.md) |
+| **K-Means Clustering** | Optimal K Selection, Distance Metrics, Cluster Stability Evaluation | [KMEANS-README.md](https://github.com/enesgulerml/Learning-Notes/blob/main/K-Means-README.md) |
 
 ---
 
